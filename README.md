@@ -4,8 +4,8 @@ In this repository you can find links to my kaggle solutions
 account url: https://www.kaggle.com/vladimirbeliayev
 
 Competitions:
-## 1. House Prices - Advanced Regression Techniques
-  #### House Prices top 5% solution
+## House Prices - Advanced Regression Techniques
+  #### 1. House Prices top 5% solution
   - https://www.kaggle.com/code/vladimirbeliayev/house-prices-top-5-solution
   - Solution on gradient boosting ensemble (70% catboost, 25% lightgbm) and linear classifier (5% ridge classifier). 79 predictors, feature transformation, feature
   
