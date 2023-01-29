@@ -15,6 +15,6 @@ Competitions:
   - Simple predictions with different moving averages and naive predictions. Even this simple approach makes it possible to hit the top 44%
   
 ## SpaceShip Titanic
-  #### 1. Spaceship custom MICE + noTuning CatBoost
+  #### 1. Spaceship: custom MICE, cool features, CB | LGBM
   - https://www.kaggle.com/code/vladimirbeliayev/spaceship-custom-mice-notuning-catboost
-  - Ad Hoc 1 day notebook, custom MICE and dummy modeling with catboost (no tuning), 80% acc 
+  - Ad Hoc 1 day notebook, custom MICE and dummy modeling with catboost (no tuning), 80%+ acc 
